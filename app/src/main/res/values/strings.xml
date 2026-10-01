@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Listado de Alumnos</string>
+    <string name="titulo_app">Listado de Alumnos</string>
+    <string name="subtitulo_app">Gestión de estudiantes en SQLite</string>
+    <string name="sin_alumnos">No hay alumnos registrados.\nPresiona \'+\' para agregar uno.</string>
+    <string name="btn_agregar">Agregar</string>
+    <string name="desc_agregar">Agregar Alumno</string>
+    <string name="desc_editar">Editar alumno</string>
+    <string name="desc_eliminar">Eliminar alumno</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="hint_cuenta">Número de cuenta</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_imagen">URL de la imagen de perfil</string>
+    <string name="dialog_agregar_titulo">Agregar Nuevo Alumno</string>
+    <string name="dialog_editar_titulo">Editar Alumno</string>
+    <string name="dialog_guardar">Guardar</string>
+    <string name="dialog_cancelar">Cancelar</string>
+    <string name="dialog_eliminar_titulo">Eliminar Alumno</string>
+    <string name="dialog_eliminar_mensaje">¿Estás seguro de que deseas eliminar este alumno?</string>
+    <string name="dialog_eliminar_confirmar">Eliminar</string>
+    <string name="formato_cuenta">Cuenta: %1$s</string>
+</resources>
